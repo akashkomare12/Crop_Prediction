@@ -65,9 +65,3 @@ You can view the Kaggle code used for training the model here:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome, especially for improving the model's accuracy or adding more crop categories.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` contains all necessary information for setting up, using, and understanding your crop prediction project, along with the relevant links to the Kaggle dataset and code. Let me know if you'd like any adjustments!
